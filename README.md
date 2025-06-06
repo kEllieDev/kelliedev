@@ -1,6 +1,6 @@
 <div align="center">
   <h3>👋 Welcome to my profile!</h3>
-  I'm a Full Stack Software Developer from <img height=10 width=15 src="https://github.com/kEllieGit/kelliegit/assets/53048761/007d9f01-2b9f-406b-a64e-cbd91ae532f1"/> Finland. <br>
+  I'm a Full Stack Software & Game Developer from Finland. <br>
    Here, you will find all of my open-source projects.
 </div>
 
