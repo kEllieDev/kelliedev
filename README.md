@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>Support My Work</h3>
-  If you have some extra cash to spare and wish to support my work, you may donate to me on my 
+  If you wish to financially support my work, you may donate to me on my 
   <a href="https://ko-fi.com/kelliedev">Ko-Fi</a> page!
 </div>
 
