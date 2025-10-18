@@ -1,15 +1,14 @@
 <div align="center">
   <h3>👋 Welcome to my profile!</h3>
   I'm a Full Stack Software & Game Developer from Finland. <br>
-   Here, you will find all of my open-source projects.
+  Here, you will find all of my open-source projects.
 </div>
 
 <br>
 
 <div align="center">
   <h3>Support My Work</h3>
-  If you wish to financially support my work, you may donate to me on my 
-  <a href="https://ko-fi.com/kelliedev">Ko-Fi</a> page!
+  If you wish to support my work, you may support me on my <a href="https://ko-fi.com/kelliedev">Ko-Fi</a> page!
 </div>
 
 <br>
