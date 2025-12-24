@@ -1,7 +1,7 @@
 <div align="center">
   <h3>👋 Welcome to my profile!</h3>
   I'm a Full Stack Software & Game Developer from Finland. <br>
-  Here, you will find all of my open-source projects.
+  Here you will find all of my open-source projects.
 </div>
 
 <br>
