@@ -1,6 +1,6 @@
 <div>
   <h3>👋 Welcome to my github profile!</h3>
-  I'm a full stack software developer from Finland. <br>
+  I'm a software engineer from Finland. <br>
   Here you will find all of my open source projects.
 </div>
 <div>
